@@ -1,4 +1,5 @@
-export const appLogo = '/logo512.png';
+export const appLogo =
+  'https://github.com/lgk-bsw/blue-react-app-stackblitz-rr6xeh/raw/master/512px.png';
 export const appTitle = 'My App Title';
 
 interface IPhrases {
